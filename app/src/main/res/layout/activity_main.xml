@@ -31,7 +31,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginTop="14dp"
+                android:layout_marginTop="20dp"
                 android:src="@drawable/flag" />
 
             <TextView
@@ -41,7 +41,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginTop="8dp"
+                android:layout_marginTop="16dp"
                 android:fontFamily="serif"
                 android:text="Udacity"
                 android:textSize="20sp"
@@ -59,7 +59,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginTop="14dp"
+                android:layout_marginTop="12dp"
                 android:src="@drawable/map" />
 
             <TextView
@@ -86,7 +86,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginTop="14dp"
+                android:layout_marginTop="12dp"
                 android:src="@drawable/street" />
 
             <TextView
@@ -114,7 +114,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginTop="14dp"
+                android:layout_marginTop="12dp"
                 android:src="@drawable/telefono" />
 
             <TextView
@@ -144,7 +144,7 @@
         android:onClick="openLink"
         android:text="Go to website"
         android:background="@android:color/transparent"
-        android:textSize="32sp" />
+        android:textSize="24sp" />
 
 </RelativeLayout>
 
